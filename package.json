@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/siberianMan13/first_test/issues"
   },
-  "homepage": "https://github.com/siberianMan13/first_test#readme"
+  "homepage": "https://github.com/siberianMan13/first_test#readme",
+  "dependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "devDependencies": {
+    "webpack-espower-loader": "^2.0.0"
+  }
 }
