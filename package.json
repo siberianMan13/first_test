@@ -2,7 +2,6 @@
   "name": "first_test",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -25,6 +24,8 @@
     "webpack-cli": "^4.9.2"
   },
   "devDependencies": {
+    "jest": "^28.1.0",
     "webpack-espower-loader": "^2.0.0"
-  }
+  },
+  "description": ""
 }
